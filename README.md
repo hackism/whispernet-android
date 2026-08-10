@@ -7,7 +7,7 @@
 
 # whispernet for Android
 
-A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required for mesh chats, no servers, no phone numbers - just pure encrypted communication. Whispernet also supports geohash channels, which use an internet connection to connect you with others in your geographic area.
+A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required for mesh chats, no servers, no phone numbers - just pure encrypted communication.
 
 ## Install whispernet
 
@@ -45,7 +45,7 @@ You can download the latest version of whispernet for Android from the [GitHub R
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/permissionlesstech/whispernet-android.git
+   git clone https://github.com/hackism/whispernet-android.git
    cd whispernet-android
    ```
 
